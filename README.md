@@ -7,7 +7,6 @@ I've always had a passion for technology and tinkering with things to see how th
 Skills: HTML, CSS, JS / React / Node / C# (.NET)
 
 - 🌱 I’m currently learning Next.js, MaterialUI, Mobile Development 
-- 💬 Ask me about Funny stories from my students! 
 - 😄 Pronouns: He/Him 
 
 
